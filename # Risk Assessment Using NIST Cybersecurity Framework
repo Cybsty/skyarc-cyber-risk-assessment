@@ -1,0 +1,26 @@
+# Risk Assessment Using NIST Cybersecurity Framework
+
+## 📌 Objective
+This project demonstrates a basic risk assessment for a fictional company using the NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover).
+
+## 🛠 Tools Used
+- NIST CSF spreadsheet template (custom Excel file)
+- Microsoft Word (for risk report)
+- Public data from a fictional or example company (e.g., small IT firm)
+
+## 🔍 Key Findings
+- Top risks identified in the Protect function
+- Gaps in patch management and access control
+- Recommended improvements: implement MFA, patch review cycle
+
+## 📊 Files Included
+- Risk-Assessment-Report.pdf
+- Risk-Scoring-Matrix.xlsx
+
+## 🧠 What I Learned
+- How to apply the NIST CSF in a real-world setting
+- Risk identification and mitigation strategies
+- Writing an executive risk summary
+
+## 📸 Screenshots
+(Add Excel snapshots or risk heatmap visuals here)
